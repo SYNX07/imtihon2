@@ -50,7 +50,7 @@ header a:hover{
     align-items: center;
     height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
-                url("/images/backgroundimgexam.avif") center / cover no-repeat;
+                url("backgroundimgexam.avif") center / cover no-repeat;
 }
 
 .main{
